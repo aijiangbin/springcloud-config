@@ -1,1 +1,3 @@
 profile: profile-test
+
+from: from-config-service-foobar--test
